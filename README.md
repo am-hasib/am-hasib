@@ -1,6 +1,6 @@
 
 # Hi 👋, my name is Hasib
-## I'm a FullStack Developer and DevOps Enginner
+## I'm a Front-End Developer
 ![I'm FullStack Developer and DevOps Enginner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.

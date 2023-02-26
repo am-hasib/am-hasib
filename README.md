@@ -13,6 +13,8 @@
     <a href="https://fb.com/amhasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amhasib" height="30" width="40" /></a>
 </p>
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=booka)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">

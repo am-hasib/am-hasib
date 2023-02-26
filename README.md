@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **amhasib129[at]gmail[dot][com]**
 
-- 📄 Know about my experiences //[http://ifty.info/cv.pdf](http://ifty.info/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

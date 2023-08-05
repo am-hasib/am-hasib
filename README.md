@@ -9,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/amhasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdullah Mohammad Hasib" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/6110817/hasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6110817" height="30" width="40" /></a>
-    <a href="https://fb.com/amhasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amhasib" height="30" width="40" /></a>
+    <a href="https://facebook.com/amhasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amhasib" height="30" width="40" /></a>
 </p>
 
 

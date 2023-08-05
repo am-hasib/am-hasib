@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">A full stack JavaScript Developer</h3>
 
-- 💬 Ask me about **TypeScript, JavaScript, Node.js, React.js, Next.js**
 
-- 📫 How to reach me **amhasib129[at]gmail[dot][com]**
 
-- 
-<h3 align="left">Connect with me:</h3>
+💬 **Tailwindcss, ShadcnUI, Figma, TypeScript, JavaScript, Node.js, React.js, Next.js, Express.js**
+
+
+📫 **How to reach me**
 <p align="left">
-    <a href="https://linkedin.com/in/amhasib" target="_blank">
-        <img src="https://github.com/am-hasib/am-hasib/blob/main/icons8-linkedin.svg" alt="Abdullah Mohammad Hasib" height="40" width="40"/>
-    </a>
-    <a href="https://facebook.com/amhasib" target="blank">
-        <img align="center" src="https://github.com/am-hasib/am-hasib/blob/main/icons8-facebook.svg" alt="amhasib" height="40" width="40" />
-    </a>
-    <a href="https://twitter.com/amhasib" target="blank">
-        <img align="center" src="https://github.com/am-hasib/am-hasib/blob/main/icons8-twitter.svg" alt="amhasib" height="40" width="40" />
-    </a>
+    <a href="mailto:amhasib129@gmail.com">Email</a><br/>
+    <a href="https://linkedin.com/in/amhasib" target="_blank">LinkedIn</a><br/><a href="https://facebook.com/amhasib" target="blank">Facebook</a><br/><a href="https://twitter.com/amhasib" target="blank">Twitter</a>
 </p>
 
 

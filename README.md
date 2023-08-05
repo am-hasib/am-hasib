@@ -12,7 +12,10 @@
         <img src="https://github.com/am-hasib/am-hasib/blob/main/icons8-linkedin.svg" alt="Abdullah Mohammad Hasib" height="40" width="40"/>
     </a>
     <a href="https://facebook.com/amhasib" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amhasib" height="40" width="40" />
+        <img align="center" src="https://github.com/am-hasib/am-hasib/blob/main/icons8-facebook.svg" alt="amhasib" height="40" width="40" />
+    </a>
+    <a href="https://twitter.com/amhasib" target="blank">
+        <img align="center" src="https://github.com/am-hasib/am-hasib/blob/main/icons8-twitter.svg" alt="amhasib" height="40" width="40" />
     </a>
 </p>
 

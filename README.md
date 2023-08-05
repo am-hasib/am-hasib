@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">A full stack JavaScript Developer</h3>
 
-- 💬 Ask me about **TypeScript, JavaScript, Node.js, React.js, Next.js, **
+- 💬 Ask me about **TypeScript, JavaScript, Node.js, React.js, Next.js**
 
 - 📫 How to reach me **amhasib129[at]gmail[dot][com]**
 

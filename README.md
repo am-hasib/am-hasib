@@ -7,12 +7,11 @@
 | Language  |  Framework/ library | Database| Others|
 |--------------|--------------|--------------|--------------|
 | `TypeScript` | `Tailwindcss`    |`PostgreSQL`   |`Figma`
-| `JavaScript` | `ShadcnUI`       |`MongoDB`      |`Git`
-|              | `Reactjs`        |`MySQL`        |`AWS`
-|              | `Zustand, axios` |               |`Linux`
-|              | `Nextjs`         |               |`Docker`
-|              | `Nodejs`         |
-|              | `Expressjs`      |
+| `JavaScript` | `Reactjs`        |`MongoDB`      |`Git`
+|              | `Nextjs`         |`MySQL`        |`AWS`
+|              | `Nodejs`         |               |`Linux`
+|              | `Expressjs`      |               |`Docker`
+
 <br/>
 
 ## 📫 **How to reach me**

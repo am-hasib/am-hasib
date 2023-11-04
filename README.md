@@ -20,12 +20,3 @@
     <a href="https://linkedin.com/in/amhasib" target="_blank">LinkedIn</a><br/><a href="https://facebook.com/amhasib" target="blank">Facebook</a><br/><a href="https://twitter.com/amhasib" target="blank">Twitter</a>
 </p>
 
-## ✔ Best Project 
-### Name - <a href="https://google.com"> 🔴 Live </a> &nbsp;| &nbsp; <a href="https://github.com"> 👉 Repo </a> 
-
->```
-> - dawda
-> - dwadawda
-> - adadaw
->``` 
-
